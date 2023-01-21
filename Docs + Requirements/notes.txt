@@ -1,0 +1,62 @@
+_______________________[ Nextrix ]_____________________+
+<-=-=-=-=-=-=-=-=-=-=-=-=-=->
+<-=-=-=-=-=-=-=-=-=-=-=-=-=->
+DEBUG (IGNORE):
+}:{
+purple: R, G, B: (194, 75, 153)
+blue: R, G, B: (0, 255, 255)
+green: R, G, B: (18, 250, 5)
+red: R, G, B: (249, 57, 63)
+}:{
+pos purple: X, Y: (728, 218)
+pos blue: X, Y: (880, 218)
+pos green: X, Y: (1039, 218)
+pos red: X, Y: (1193, 218)
+}:{
+Off Screen XY: X, Y: (712, 2)
+Off Screen Color Vals: R, G, B: (0, 0, 0)
+}:{
+<-=-=-=-=-=-=-=-=-=-=-=-=-=->
+<-=-=-=-=-=-=-=-=-=-=-=-=-=->
+_________________________[<|+|>]_______________________+
+
+Roblox FNF Settings >> Use note [Default] settings
+
+			            |
+			           \/
+
+Notes:
+	Colors:
+		(Left) purple:     R, G, B: (194, 75, 153)
+		(Down) blue:      R, G, B: (0, 255, 255)
+		(Up) green:         R, G, B: (18, 250, 5)
+		(Right) red:         R, G, B: (249, 57, 63)
+	Note Settings:
+		Arrow Speed:     2.2
+		Arrow Size:        1
+		Lane Offset:       0
+		Height Offset:    0
+	Controls:
+		(Left) purple:     D
+		(Down) blue:      F
+		(Up) green:        J
+		(Right) red:        K
+	Style:
+		Shadow Arrows
+Settings:
+	UI:
+		Toggle Note Effects:        Off
+	Arrows:
+		Arrow Replication:           On
+		Arrow Style Replication:  Off
+		Arrow Fade:                      On
+		Pressed Arrow Glow:       Off
+		Arrow Glow Speed:           10
+
+_________________________[<|+|>]_______________________+
+<-=-=-=-=-=-=-=-=-=-=-=-=-=->
+Use Roblox FPS Unlocker for better results
+<-=-=-=-=-=-=-=-=-=-=-=-=-=->
+nextrix#8446
+<-=-=-=-=-=-=-=-=-=-=-=-=-=->
+_______________________[ Nextrix ]_____________________+

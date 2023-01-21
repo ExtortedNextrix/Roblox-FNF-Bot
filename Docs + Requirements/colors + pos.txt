@@ -1,0 +1,13 @@
+purple: R, G, B: (194, 75, 153)
+blue: R, G, B: (0, 255, 255)
+green: R, G, B: (18, 250, 5)
+red: R, G, B: (249, 57, 63)
+gray: R, G, B: (136, 165, 171)
+
+pos purple: X, Y: (728, 218)
+pos blue: X, Y: (880, 218)
+pos green: X, Y: (1039, 218)
+pos red: X, Y: (1193, 218)
+
+Off Screen XY: X, Y: (712, 2)
+Off Screen Color Vals: R, G, B: (0, 0, 0)
