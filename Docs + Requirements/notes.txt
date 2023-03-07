@@ -20,6 +20,9 @@ Off Screen Color Vals: R, G, B: (0, 0, 0)
 <-=-=-=-=-=-=-=-=-=-=-=-=-=->
 _________________________[<|+|>]_______________________+
 
+Use 1920x1080 Fullscreen in order for it to work!
+
+
 Roblox FNF Settings >> Use note [Default] settings
 
 			            |
